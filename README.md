@@ -6,18 +6,11 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Pranav Siddharth K V** 👋
-
-🎓 Software Systems Student  
-🤖 Aspiring AI/ML Engineer  
-💻 Interested in Artificial Intelligence, Machine Learning & Software Development.
-
-- 🌱 Currently learning **Machine Learning and AI**
-- 🔭 Building practical projects using **Python, React and FastAPI**
-- 🧠 Exploring **LLMs, RAG, Vector Databases and AI applications**
-- 🚀 Passionate about turning ideas into real-world projects.
-
-> *Learning by building. Growing through experimentation.*
+- 🎓 Software Systems Student
+- 🤖 Aspiring AI/ML Engineer
+- 🧠 Learning Machine Learning & Deep Learning
+- ⚡ Building AI-powered applications
+- 🔬 Exploring LLMs, RAG & Vector Databases
 
 ## 🛠️ Tech Stack
 
@@ -40,20 +33,13 @@ Hey! I'm **Pranav Siddharth K V** 👋
 
 ## 🚀 Featured Projects
 
-### 1. PDF Chatbot — RAG Application
+### 📄 PDF Chatbot — RAG Application
 
-An AI-powered PDF chatbot that allows users to upload documents and ask questions using Retrieval-Augmented Generation.
-
-**Tech Stack:** React, Vite, FastAPI, Python, Hugging Face, ChromaDB, Sentence Transformers.
-
-**Key Features:**
-- 📄 PDF document upload and processing
-- 🧩 Intelligent text chunking and embeddings
-- 🔍 Semantic search using vector databases
-- 🤖 AI-powered question answering
-- 📚 Context-based responses with citations
-
-**Live Demo:** [Try PDF Chatbot](https://pdf-chat-bot-tawny.vercel.app/)
+- 💡 AI-powered PDF question-answering system
+- 🔍 Semantic search using vector embeddings
+- 🤖 Context-aware answers with source citations
+- 🛠️ **Stack:** React · FastAPI · Python · Hugging Face · ChromaDB
+- 🔗 [Live Demo](https://pdf-chat-bot-tawny.vercel.app/)
 ## 📊 GitHub Contributions
 
 <p align="center">
