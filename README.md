@@ -59,3 +59,8 @@ An AI-powered PDF chatbot that allows users to upload documents and ask question
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pranavsiddharth6-alt&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" width="75%" alt="GitHub Contribution Streak"/>
 </p>
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranavsiddharth6-alt/pranavsiddharth6-alt/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
