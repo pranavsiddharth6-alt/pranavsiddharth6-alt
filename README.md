@@ -36,3 +36,21 @@ Hey! I'm **Pranav Siddharth K V** 👋
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+
+## 🚀 Featured Projects
+
+### 1. PDF Chatbot — RAG Application
+
+An AI-powered PDF chatbot that allows users to upload documents and ask questions using Retrieval-Augmented Generation.
+
+**Tech Stack:** React, Vite, FastAPI, Python, Hugging Face, ChromaDB, Sentence Transformers.
+
+**Key Features:**
+- 📄 PDF document upload and processing
+- 🧩 Intelligent text chunking and embeddings
+- 🔍 Semantic search using vector databases
+- 🤖 AI-powered question answering
+- 📚 Context-based responses with citations
+
+**Live Demo:** [Try PDF Chatbot](https://pdf-chat-bot-tawny.vercel.app/)
