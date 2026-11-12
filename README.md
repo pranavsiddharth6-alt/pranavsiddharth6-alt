@@ -54,3 +54,13 @@ An AI-powered PDF chatbot that allows users to upload documents and ask question
 - 📚 Context-based responses with citations
 
 **Live Demo:** [Try PDF Chatbot](https://pdf-chat-bot-tawny.vercel.app/)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavsiddharth6-alt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsiddharth6-alt&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranavsiddharth6-alt&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+</p>
