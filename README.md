@@ -9,7 +9,7 @@
 - 🎓 Software Systems Student
 - 🤖 Aspiring AI/ML Engineer
 - 🧠 Learning Machine Learning & Deep Learning
-- ⚡ Building AI-powered applications
+- ⚡ Building AI-powered application
 - 🔬 Exploring LLMs, RAG & Vector Databases
 
 ## 🛠️ Tech Stack
